@@ -7,4 +7,7 @@
 * [Gradio App](https://huggingface.co/spaces/812vaishnavi/gradio-land-cover-mapping)
 
   ![Unet Prediction](Predicition.png)
-
+  ![Gradio Unet vs FPN](GradioApp1.jpg)
+  <br/>
+  <br/>
+  ![Gradio Linknet vs PSPNet](GradioApp2.jpg)
