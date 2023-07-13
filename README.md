@@ -5,3 +5,6 @@
 * Overall, we aim to make land segmentation accessible to a wide range of users and facilitating further analysis and decision-making based on the segmented land regions
 
 * [Gradio App](https://huggingface.co/spaces/812vaishnavi/gradio-land-cover-mapping)
+
+  ![Unet Prediction](Predicition.png)
+
